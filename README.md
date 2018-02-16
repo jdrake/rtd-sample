@@ -1,3 +1,0 @@
-# rtd-sample
-
-new content
